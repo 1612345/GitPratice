@@ -1,4 +1,4 @@
 this is my first command 
 this is second commit
 //write the commit//
-about the code for xyz company
+about the code for xyz company and result should be submitted
