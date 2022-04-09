@@ -1,4 +1,8 @@
 this is my first command 
 this is second commit
 //write the commit//
+<<<<<<< HEAD
 about the code for xyz company and result should be submitted
+=======
+where is the required result
+>>>>>>> e8d24459216c515fe7d773a41e3edcdf1f08208a
