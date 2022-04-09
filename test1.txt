@@ -6,4 +6,8 @@ about the code for xyz company and result should be submitted
 =======
 where is the required result
 >>>>>>> e8d24459216c515fe7d773a41e3edcdf1f08208a
+<<<<<<< HEAD
 statement for merging the files
+=======
+statement for merging the files
+>>>>>>> b88c46a20140577d570038d58d5443ac6c32a491
